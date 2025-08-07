@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Adhithyan",
+    "course": "Data Science",
+    "company": "TCS",
+    "image": "/api/placeholder/100/100",
+    "rating": 5,
+    "comment": "Another remarkable aspect was the placement support provided by IAT Technologies. Their guidance and assistance in resume building, mock interviews helped a lot."
+  },
+  {
+    "id": 2,
+    "name": "Gugan S",
+    "course": "Full Stack Development",
+    "company": "Wipro",
+    "image": "/api/placeholder/100/100",
+    "rating": 5,
+    "comment": "It is with great pleasure that we extend our warmest greetings to IAT TECHNOLOGIES. Your commitment to excellence in education and innovation is truly inspiring."
+  },
+  {
+    "id": 3,
+    "name": "Vishnu K",
+    "course": "Software Testing",
+    "company": "Cognizant",
+    "image": "/api/placeholder/100/100",
+    "rating": 5,
+    "comment": "The infrastructure is well-equipped, providing a great learning environment. What stood out the most was their interview preparation training."
+  },
+  {
+    "id": 4,
+    "name": "Shankar",
+    "course": "Data Analytics",
+    "company": "Infosys",
+    "image": "/api/placeholder/100/100",
+    "rating": 5,
+    "comment": "I recently attended the job fair at MGR University, organized by IAT Technologies, and I am happy to share that I received an offer from an IT company with good package."
+  },
+  {
+    "id": 5,
+    "name": "Parthasarathy",
+    "course": "Full Stack Development",
+    "company": "Accenture",
+    "image": "/api/placeholder/100/100",
+    "rating": 5,
+    "comment": "Thanks to IAT Technologies Guindy, I now have a solid understanding of Python and web app development. The course was engaging, and the trainers were fantastic."
+  },
+  {
+    "id": 6,
+    "name": "Gowsalya Selvaraju",
+    "course": "Cyber Security",
+    "company": "IBM",
+    "image": "/api/placeholder/100/100",
+    "rating": 5,
+    "comment": "I highly recommend IAT Technologies to anyone looking for top-notch training and placement opportunities in the IT industry. A big thanks to the entire team."
+  }
+]

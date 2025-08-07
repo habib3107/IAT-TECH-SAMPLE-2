@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "course": "Data Science",
+    "company": "TCS",
+    "package": "₹8.5 LPA",
+    "image": "/api/placeholder/150/150",
+    "year": "2024"
+  },
+  {
+    "id": 2,
+    "name": "Priya Krishnan",
+    "course": "Full Stack Development",
+    "company": "Wipro",
+    "package": "₹9.2 LPA",
+    "image": "/api/placeholder/150/150",
+    "year": "2024"
+  },
+  {
+    "id": 3,
+    "name": "Arjun Patel",
+    "course": "Azure DevOps",
+    "company": "Cognizant",
+    "package": "₹12.5 LPA",
+    "image": "/api/placeholder/150/150",
+    "year": "2024"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Reddy",
+    "course": "Cyber Security",
+    "company": "Infosys",
+    "package": "₹11.0 LPA",
+    "image": "/api/placeholder/150/150",
+    "year": "2024"
+  },
+  {
+    "id": 5,
+    "name": "Karthik Kumar",
+    "course": "Software Testing",
+    "company": "Accenture",
+    "package": "₹7.8 LPA",
+    "image": "/api/placeholder/150/150",
+    "year": "2024"
+  },
+  {
+    "id": 6,
+    "name": "Divya Nair",
+    "course": "Data Analytics",
+    "company": "Amazon",
+    "package": "₹15.5 LPA",
+    "image": "/api/placeholder/150/150",
+    "year": "2024"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Singh",
+    "course": "Full Stack Development",
+    "company": "IBM",
+    "package": "₹10.2 LPA",
+    "image": "/api/placeholder/150/150",
+    "year": "2024"
+  },
+  {
+    "id": 8,
+    "name": "Anitha Raj",
+    "course": "Data Science",
+    "company": "Capgemini",
+    "package": "₹9.8 LPA",
+    "image": "/api/placeholder/150/150",
+    "year": "2024"
+  }
+]

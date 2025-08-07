@@ -1,0 +1,42 @@
+[
+  {
+    "name": "TCS",
+    "logo": "/api/placeholder/120/60"
+  },
+  {
+    "name": "Wipro",
+    "logo": "/api/placeholder/120/60"
+  },
+  {
+    "name": "Cognizant",
+    "logo": "/api/placeholder/120/60"
+  },
+  {
+    "name": "Infosys",
+    "logo": "/api/placeholder/120/60"
+  },
+  {
+    "name": "Accenture",
+    "logo": "/api/placeholder/120/60"
+  },
+  {
+    "name": "IBM",
+    "logo": "/api/placeholder/120/60"
+  },
+  {
+    "name": "Amazon",
+    "logo": "/api/placeholder/120/60"
+  },
+  {
+    "name": "Capgemini",
+    "logo": "/api/placeholder/120/60"
+  },
+  {
+    "name": "Airtel",
+    "logo": "/api/placeholder/120/60"
+  },
+  {
+    "name": "Meesho",
+    "logo": "/api/placeholder/120/60"
+  }
+]

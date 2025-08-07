@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Data Science",
+    "description": "Master data analysis, machine learning, and statistical modeling with hands-on projects and real-world applications.",
+    "category": "Analytics",
+    "duration": "6 months",
+    "level": "Beginner to Advanced",
+    "features": [
+      "Python Programming",
+      "Machine Learning",
+      "Statistical Analysis",
+      "Data Visualization",
+      "Real-time Projects"
+    ],
+    "icon": "📊"
+  },
+  {
+    "id": 2,
+    "title": "Full Stack Development",
+    "description": "Learn to build complete web applications from frontend to backend with modern technologies and frameworks.",
+    "category": "Development",
+    "duration": "8 months",
+    "level": "Beginner to Advanced",
+    "features": [
+      "React.js & Node.js",
+      "Database Management",
+      "API Development",
+      "DevOps Integration",
+      "Project Portfolio"
+    ],
+    "icon": "💻"
+  },
+  {
+    "id": 3,
+    "title": "Data Analytics",
+    "description": "Transform raw data into actionable insights using advanced analytics tools and visualization techniques.",
+    "category": "Analytics",
+    "duration": "4 months",
+    "level": "Beginner to Intermediate",
+    "features": [
+      "Excel & Power BI",
+      "SQL Database",
+      "Tableau Visualization",
+      "Business Intelligence",
+      "Industry Projects"
+    ],
+    "icon": "📈"
+  },
+  {
+    "id": 4,
+    "title": "Software Testing",
+    "description": "Ensure software quality through comprehensive testing methodologies, automation, and quality assurance practices.",
+    "category": "Quality Assurance",
+    "duration": "3 months",
+    "level": "Beginner to Advanced",
+    "features": [
+      "Manual Testing",
+      "Automation Testing",
+      "Performance Testing",
+      "API Testing",
+      "Test Case Design"
+    ],
+    "icon": "🧪"
+  },
+  {
+    "id": 5,
+    "title": "Azure DevOps & Data Engineering",
+    "description": "Master cloud operations, data pipeline development, and infrastructure management on Microsoft Azure.",
+    "category": "Cloud Computing",
+    "duration": "5 months",
+    "level": "Intermediate to Advanced",
+    "features": [
+      "Azure Cloud Services",
+      "Data Pipeline Design",
+      "CI/CD Deployment",
+      "Infrastructure as Code",
+      "Cloud Security"
+    ],
+    "icon": "☁️"
+  },
+  {
+    "id": 6,
+    "title": "Ethical Hacking / Cyber Security",
+    "description": "Protect digital assets by learning advanced cybersecurity techniques and ethical hacking methodologies.",
+    "category": "Security",
+    "duration": "6 months",
+    "level": "Intermediate to Advanced",
+    "features": [
+      "Network Security",
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Digital Forensics",
+      "Security Compliance"
+    ],
+    "icon": "🔒"
+  }
+]
